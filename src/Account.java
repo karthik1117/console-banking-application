@@ -110,6 +110,7 @@ public class Account {
 					break;
 			}
 		} while (option != 'F');
+		scanner.close();
 		System.out.println("Thank you for banking with us!");
 	}
 }
