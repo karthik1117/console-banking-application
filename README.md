@@ -1,4 +1,4 @@
-# Banking Console Application
+# Console Banking Application
 
 A console application that simulates a very simple banking process, with options for the user to:
 
