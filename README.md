@@ -2,14 +2,14 @@
 
 A console application that simulates a very simple banking process, with options for the user to:
 
-(i) check balance;
+**(i)** Check balance;
 
-(ii) make deposit;
+**(ii)** Make deposit;
 
-(iii) make withdrawals;
+**(iii)** Make withdrawals;
 
-(iv) view previous transaction;
+**(iv)** View previous transaction;
 
-(v) calculate interest.
+**(v)** Calculate interest.
 
 All done with simple Java language.
