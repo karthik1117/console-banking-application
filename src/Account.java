@@ -21,7 +21,13 @@ public class Account {
 
 	// TODO: se withdraw > amount = mensagem "saldo insuficiente";
 	void withdraw(int amount) {
-		if (amount != 0) {
+		if (amount == 0) {
+			System.out.println();
+			System.out.println("Enter a value greater than zero.");
+		} else if (amount > balance) {
+			System.out.println();
+			System.out.println("Insufficient funds!");
+		} else {
 			balance = balance - amount;
 			previousTransaction = -amount;
 		}
