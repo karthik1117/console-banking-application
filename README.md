@@ -11,5 +11,3 @@ A console application that simulates a very simple banking process, with options
 **(iv)** View previous transaction;
 
 **(v)** Calculate interest.
-
-All done with simple Java language.
